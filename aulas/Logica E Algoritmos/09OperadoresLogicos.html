@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>09 - Operadores Lógicos</title>
+
+  <!-- JavaScript -->
+  <script>
+
+    // Existem vários tipos de operadores lógicos
+    /*
+
+    Os principais são:
+
+     && -> E
+     || -> OU
+     ! -> NEGAÇÃO
+
+     
+    
+    */
+
+    // Exemplo 01 - Negação
+    document.write(!true)
+
+    // Exemplo 02 - 
+    var valor = 1000
+    var pagamento = "a vista"
+
+    // Lendo o código: Se o valor for maior ou igual a mil e o pagamento for a vista 
+    // haverá um desconto
+    // caso contrário
+    // Não haverá um desconto
+
+    // && 
+    if ((valor >= 1000) && (pagamento == "a vista")) {
+      document.write("Haverá um desconto");
+    }
+    else {
+      document.write("Não haverá um desconto")
+    }
+
+    // || 
+    if ((valor >= 1000) || (pagamento == "a vista")) {
+      document.write("Haverá um desconto");
+    }
+    else {
+      document.write("Não haverá um desconto")
+    }
+
+  </script>
+</head>
+
+<body>
+
+</body>
+
+</html>

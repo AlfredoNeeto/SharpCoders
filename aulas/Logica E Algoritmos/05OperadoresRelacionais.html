@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>05 - Operadores relacionais</title>
+
+  <!-- JavaScript -->
+  <script>
+
+    /*
+      > Maior 
+      < Menor
+      >= Maior ou igual 
+      <= Menor ou igual 
+      == igual
+      != Diferente
+    */
+
+    //Algoritmo que calcula se o aluno passou de ano ou não
+    alert("Seja bem vindo ao calculador de notas Calculus")
+    var nomeDoAluno = prompt("Por favor, Digite o nome do aluno")
+    var notaPrimeiroBimestre = parseFloat(prompt("Qual a nota do primeiro bimestre do aluno: " + nomeDoAluno + "."))
+    var notaSegundoBimestre = parseFloat(prompt("Qual a nota do segundo bimestre do aluno: " + nomeDoAluno + "."))
+    var notaTerceiroBimestre = parseFloat(prompt("Qual a nota do terceiro bimestre do aluno: " + nomeDoAluno + "."))
+    var notaQuartoBimestre = parseFloat(prompt("Qual a nota do quarto bimestre do aluno: " + nomeDoAluno + "."))
+
+    var mediaDoAluno = (notaPrimeiroBimestre + notaSegundoBimestre + notaTerceiroBimestre + notaQuartoBimestre) / 4
+
+    if (mediaDoAluno >= 6) {
+      alert("O aluno " + nomeDoAluno + " Passou de ano!")
+    }
+    else {
+      alert("O aluno " + nomeDoAluno + " Reprovou de ano!")
+    }
+
+  </script>
+</head>
+
+<body>
+
+</body>
+
+</html>
