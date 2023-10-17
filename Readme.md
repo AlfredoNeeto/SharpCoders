@@ -1,6 +1,6 @@
 # Repositório do Sharp Coders 2023
 
-Este repositório contém os códigos de aulas, exercícios e projetos do Sharp Coders 2023.
+Este repositório contém os códigos de aulas, exercícios e projetos do Sharp Coders 2023. O objetivo deste repositório é fornecer uma fonte central para os alunos do Sharp Coders acessarem os códigos que aprenderam durante o curso.
 
 ## Arquivos
 
