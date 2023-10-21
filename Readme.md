@@ -7,17 +7,21 @@
 Repositório destinado aos códigos das aulas, exercícios e desafios do Sharp Coders 2023, um programa de formação profissional de desenvolvedores fullstack patrocinado pela MXM Sistemas.
 
 ## 👨‍💻 Conteúdos
+
 - Códigos das aulas.
 - Soluções para exercícios e desafios.
 - Projetos desenvolvidos durante o programa.
 
 ## 🗂️ Organização
+
 O repositório está organizado da seguinte forma
+
 - **/aulas:** contém os códigos das aulas.
 - **/exercicios:** contém as soluções para os exercícios.
 - **/projetos:** contém os projetos desenvolvidos durante o programa.
 
 ## 🫂 Agradecimentos
+
 Agradeço à Ímã Learning Place e à MXM Sistemas por oferecerem este programa de formação profissional.
 
 ## ⭐ Avaliação
@@ -29,4 +33,5 @@ Estou ansioso para continuar aprendendo e desenvolvendo minhas habilidades como 
 **Boa sorte a todos os participantes!**
 
 ## ✉️ Contato
+
 Para entrar em contato, envie um e-mail para eu.alfredoneto@hotmail.com.
